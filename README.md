@@ -18,5 +18,6 @@ Link to this codes in Kaggle: https://www.kaggle.com/quocminhquannguyen/assignme
       
    ```
  3. Open the project on any editor that support Python Notebook file
+    
     For me, I personally recommend Visual Studio Code
  
