@@ -51,7 +51,7 @@ This public dataset is part of Airbnb, and the original source can be found on t
 ![bar chart capture](https://user-images.githubusercontent.com/58071533/119252658-0b34a500-bbe0-11eb-9bd7-4d244ba3695c.JPG)
 
 
-In this project, not just using the Data visualization and Information Processing Libraries like Numpy, Pandas and Matploit, I also try to implement the use of Hash Tables and Binary Trees Data Structure; Merge Sort, Binary Search and Hash Table Search Algorithm to conduct the displaying and searching of data within this vast dataset of more than 48000 data entries.
+In this project, not only using the Data visualization and Information Processing Libraries like Numpy, Pandas and Matploit, I also try to implement the use of Hash Tables and Binary Trees Data Structure; Merge Sort, Binary Search and Hash Table Search Algorithm to conduct the displaying and searching of data within this vast dataset of more than 48000 data entries.
 
 
 ![algorithm capture](https://user-images.githubusercontent.com/58071533/119252730-55b62180-bbe0-11eb-8837-9c19db3a288e.JPG)
